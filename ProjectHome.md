@@ -1,0 +1,1 @@
+This project aims at developing a web application framework that is capable of patching without restarting application server. The goal of this framework is to provide user with flexibility and configuration to the maximum possible extent
